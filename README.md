@@ -1,1 +1,1 @@
-﻿# Innomate to heroku
+﻿# Innomate prototype to heroku
